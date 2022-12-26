@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header{
+  padding: 20px 0;
+  text-align: center;
+}
+
+.nav-list {
+  padding: 15px 0;
+  text-align: center;
+  border-top:1px solid;
+  border-bottom:1px solid;
+}
+
+.nav-list-item{
+  list-style: none;
+  display: inline-block;
+  margin: 0 20px;
+}
+
+/* メインで箱の大きさ決めてから、ボックス１個ずつ色付けてく。
+折り返しはふれっくすぼっくすのわらっぷ使う。最後にへっだーやっておしまい*/
+.main{
+
+}
